@@ -36,6 +36,7 @@ tells angular where to create the application.
 #The required Libraries
 
 Add the following JavaScript libraries to the HTML page just before the closing body tag.
+	
 	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="../lib/angular/angular.js"></script> 
     <script src="../lib/angular-route/angular-route.min.js"></script>  
