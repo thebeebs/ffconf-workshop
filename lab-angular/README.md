@@ -44,7 +44,7 @@ Add the following JavaScript libraries to the HTML page just before the closing 
     <script src="../lib/angular-bootstrap/ui-bootstrap-tpls.js"></script>
     <script src="../lib/highcharts-release/highcharts.js"></script>
     <script src="../lib/highchart-ng/dist/highcharts-ng.min.js"></script>
-    <script src="app.js"></script>
+    <script src="../lab-angular/app.js"></script>
 	
 If you load the app you should now notice that Angular has kicked in and the {{'here' + '!'}} template 
 has now been populated.
