@@ -129,8 +129,8 @@ Traditionaly in JavaScript we would join strigs and variable together using +. W
 with lots of variables.
 
 	function greeter(person : Person) {
-			return "Hello, " + person.firstname + " " + person.lastname;
-		}
+		return "Hello, " + person.firstname + " " + person.lastname;
+	}
 		
 To make it better ES2015 now has templte strings which allow this syntax:
 
