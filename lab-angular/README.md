@@ -1,5 +1,5 @@
 #Create our base HTML file
-Inside the lab-javascript foldercreate a new html file and call it index.html. 
+Inside the lab-angular foldercreate a new html file and call it index.html. 
 Into that file we wat to put some HTML boiler plate.
 
 #Add our boiler plate
