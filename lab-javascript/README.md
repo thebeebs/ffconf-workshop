@@ -125,8 +125,8 @@ Microsoft Edge, Firefox and Chrome already do.
 
 # 5. Template Strings
 
-Traditionally in JavaScript we would join strings and variable together using +. Whilst this works it can be messy when you are working
-with lots of variables.
+Traditionally in JavaScript we would join strings and variable together using +. 
+Whilst this works it can be messy when you are working with lots of variables.
 
 	function greeter(person : Person) {
 		return "Hello, " + person.firstname + " " + person.lastname;
