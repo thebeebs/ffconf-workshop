@@ -1,5 +1,5 @@
 # 1. Compile a basic Javascript  file
-Inside the folder lab-javascript find the blank
+Inside the folder lab-javascript find the
 file called greeter.ts. This is our typescript file.
 Add the following plain JavaScript to this file:
 
