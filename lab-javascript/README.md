@@ -129,8 +129,8 @@ Traditionaly in JavaScript we would join strigs and variable together using +. W
 with lots of variables.
 
 	function greeter(person : Person) {
-			return "Hello, " + person.firstname + " " + person.lastname;
-		}
+		return "Hello, " + person.firstname + " " + person.lastname;
+	}
 		
 To make it better ES2015 now has templte strings which allow this syntax:
 
@@ -144,9 +144,9 @@ can be foud under or near the ESC key.
 You can also use this to span multiple lines. For example this is valid and the new lie will actually be interpreted.
 
 	function greeter(person : Person) {
-			return `Hello, ${person.firstname} ${person.lastname}
-			this is valid`;
-		}
+		return `Hello, ${person.firstname} ${person.lastname}
+		this is valid`;
+	}
 		
 Run the function through the TypeScript compiler and see how the resultant JS file include a new line.
 
