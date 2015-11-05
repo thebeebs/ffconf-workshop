@@ -145,7 +145,7 @@ You can also use this to span multiple lines. For example this is valid and the 
 
 	function greeter(person : Person) {
 		return `Hello, ${person.firstname} ${person.lastname}
-		this is valid`;
+				this is valid`;
 	}
 
 Run the function through the TypeScript compiler and see how the resultant JS file include a new line.
