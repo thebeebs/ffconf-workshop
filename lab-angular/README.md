@@ -78,7 +78,7 @@ for our rating app. Replace the current line of code that creates the ratingApp 
 
 #Routing
 Our app will use Angular routing. To set up routing we need to configure certain routes:
-
+	ratingApp.config(['$routeProvider','$locationProvider', 
 	function ($routeProvider, $locationProvider, $http) {
 			$routeProvider.
 				when('/lab-angular', {
