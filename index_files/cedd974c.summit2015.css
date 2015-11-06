@@ -2833,6 +2833,10 @@ footer {
     max-width: 100%;
 }
 
+.section--summit-terms p {
+    max-width: 100%;
+}
+
 .section--summit-location {
     background: rgb(92, 45, 145);
 }
